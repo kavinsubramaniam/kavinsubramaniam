@@ -7,7 +7,6 @@ I am a Pythonistas and Upcoming AI Engineer
 I am so much liked to be a part the AI building community. I love to teach the machine how to see the world.
 
 * 🌍  I'm based in India, TamilNadu
-* 🖥️  See my portfolio at [KAVINSUBRAMANIAM](http://kavinsubramaniam.netlify.app)
 * ✉️  You can contact me at [kavin090305@gmail.com](mailto:kavin090305@gmail.com)
 * 🧠  I'm learning WEB developement, Tensorflow, Data Visualization, DSA
 * 🤝  I'm open to collaborating on ML | DL projects and also Web Developement based projects
