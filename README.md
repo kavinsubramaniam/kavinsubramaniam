@@ -8,7 +8,6 @@ I am so much liked to be a part the AI building community. I love to teach the m
 
 * 🌍  I'm based in India, TamilNadu
 * ✉️  You can contact me at [kavin090305@gmail.com](mailto:kavin090305@gmail.com)
-* 🧠  I'm learning WEB developement, Tensorflow, Data Visualization, DSA
 * 🤝  I'm open to collaborating on ML | DL projects and also Web Developement based projects
 
 ### Skills
@@ -85,14 +84,6 @@ I am so much liked to be a part the AI building community. I love to teach the m
   <a href="https://www.hackerrank.com/profile/kavin090305" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="hackerrank logo"  />
   </a>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/kavinsubramaniam"><img src="https://github-readme-stats.vercel.app/api?username=kavinsubramaniam&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=3382ed&icon_color=64748b&bg_color=0f172a&hide_border=true&show_icons=true" alt="kavinsubramaniam's GitHub stats" /></a>
-
-<a href="http://www.github.com/kavinsubramaniam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinsubramaniam&stroke=3382ed&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=3382ed&currStreakLabel=ffffff&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
 ### Support Me
 
